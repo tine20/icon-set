@@ -3,7 +3,9 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 42.52 42.52" style="enable-background:new 0 0 42.52 42.52;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#010202;}
+	.st0{fill:#020203;}
 </style>
-<polygon class="st0" points="15.99,24.27 11.23,5.13 6.48,24.27 6.42,38.28 35.14,38.22 35.14,29.71 31.02,24.33 "/>
+<path class="st0" d="M15.5,37.88h20.44v-7.32l-4.11-5.39l-13.14-0.04l-0.05-10.5l-4.92-6.55V6.85H15V5.34h-1.28V4.06h-1.51v1.28
+	h-1.28v1.51h1.28v1.25l-4.92,6.56L7.23,37.88h3.24v-4.87c0-1.37,1.12-2.49,2.49-2.49s2.49,1.12,2.49,2.49L15.5,37.88z M13.72,20.57
+	h-1.51V18.1h1.51V20.57z M12.22,15.8v-2.47h1.51v2.47H12.22z"/>
 </svg>
