@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+
+if (php_sapi_name() != 'cli') {
+    die('Not allowed: wrong sapi name!');
+}
+
+for ($size=60; $size<=160; $size+=20) {
+    foreach(scandir(__DIR__) as $source) {
+        @[$name, $ext] = explode('.', $source);
+        if($ext === 'svg') {
+             $target = "{$name}_{$size}.png";
+             `convert -size {$size}x{$size} $source $target`;
+        }
+    }
+}
