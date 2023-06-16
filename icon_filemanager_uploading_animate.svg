@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 42.5 42.5"
+   style="enable-background:new 0 0 42.5 42.5;"
+   xml:space="preserve"
+   sodipodi:docname="icon_filemanager_uploading_animate.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata64"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs62" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1864"
+   inkscape:window-height="1043"
+   id="namedview60"
+   showgrid="false"
+   inkscape:zoom="11.30596"
+   inkscape:cx="35.217075"
+   inkscape:cy="18.531342"
+   inkscape:window-x="1976"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1" />
+<path
+   d="M 9.8,18.1 H 7.2 v -10 c 0,-0.5 0.4,-0.8 1,-0.8 h 7.6 c 0.3,0 0.7,0.2 0.8,0.4 l 1.4,2 h 17 c 0.5,0 1,0.4 1,0.8 v 7.7 H 33.2 V 12.4 H 9.8 Z M 38,19.3 c -0.1,-0.1 -0.3,-0.2 -0.5,-0.2 h -7.1 l 3,2.8 h 0.9 c 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 l -2,9.2 c -0.1,0.3 -0.3,0.5 -0.7,0.5 H 10.8 c -0.3,0 -0.6,-0.2 -0.7,-0.5 L 8.3,22.6 c 0,-0.2 0,-0.3 0.2,-0.5 C 8.6,22 8.8,21.9 9,21.9 h 1.8 l 2.9,-2.8 h -8 C 5.5,19.1 5.3,19.2 5.2,19.3 5,19.4 5,19.6 5,19.8 l 2.7,14.4 c 0.1,0.3 0.3,0.5 0.7,0.5 h 26.3 c 0.4,0 0.6,-0.2 0.7,-0.5 l 2.7,-14.4 c 0.1,-0.2 0,-0.4 -0.1,-0.5 z"
+   id="folder"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccsssccsscccccssccssccssccssccscccssccs" />
+<path
+   id="arrow"
+   d="m 30.514904,27.928697 c -0.2,0.5 -0.5,0.7 -1,0.7 h -4.499999 v 3.9 c 0,0.3 -0.1,0.6 -0.3,0.8 -0.2,0.2 -0.5,0.3 -0.8,0.3 h -4.5 c -0.3,0 -0.6,-0.1 -0.8,-0.3 -0.2,-0.2 -0.3,-0.5 -0.3,-0.8 v -3.9 h -4.5 c -0.5,0 -0.8,-0.2 -1,-0.7 -0.2,-0.5 -0.1,-0.9 0.2,-1.2 l 7.9,-7.9 c 0.1,-0.3 0.3,-0.4 0.6,-0.4 0.3,0 0.6,0.1 0.8,0.3 l 7.899999,7.9 c 0.4,0.4 0.5,0.8 0.3,1.3 z"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="sscsssssscssscssss">
+    <animateMotion path="M 0,10 V -20" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" />
+</path>
+</svg>
